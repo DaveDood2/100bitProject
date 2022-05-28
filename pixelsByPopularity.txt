@@ -1,0 +1,13 @@
+Total pixels edited: 10000844
+Mean edits per pixel: 203.46769205729166
+Pixels sorted by # of times edited:
+x252   y190  :   2992
+x252   y189  :   2069
+x253   y189  :   2011
+x254   y188  :   1983
+x253   y191  :   1950
+x252   y191  :   1946
+x252   y188  :   1667
+x252   y187  :   1551
+x253   y187  :   1492
+x254   y190  :   1431
