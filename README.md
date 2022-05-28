@@ -1,5 +1,3 @@
-# Project_Butler
-
 Install conda from here: https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
 
 Install jupyter-notebook from here: https://jupyter.org/install
