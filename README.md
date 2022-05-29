@@ -1,4 +1,6 @@
-# Project_Butler
+Hello! This is the public version of the 100bit project I made for a data mining class in the University of Tennessee. Feel free to use the graphs generated from my code for whatever.
+
+Note: If you don't feel like installing jupyter-notebook/conda, you can still view this project in the files, "100 Bit Crawler.ipynb" and "100 Bit Project.ipynb". The only problem is that you will not be able to re-run the code. Also note that if you are viewing the .ipynb files on a web browser, you MAY need to refresh a few times before it will properly load.
 
 Install conda from here: https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
 
